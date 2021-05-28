@@ -6,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://ankitnayak09.github.io/Devchallenge-404-not-found-/"> 
+    <a href="https://ankitnayak09.github.io/Devchallenge-My-team-page/"> 
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/ankitnayak09/Devchallenge-404-not-found-">
+    <a href="https://github.com/ankitnayak09/Devchallenge-My-team-page">
       Solution
     </a>
     <span> | </span>
@@ -34,12 +34,10 @@
 
 ## Overview
 
-![screenshot](Desktop-View.jpg)
+![screenshot](desktop-View.jpg)
 
 
-I am a beginner in the field of web dev. So according to me the challenges nor too hard or too easy. It means with every project that you built. I would come over challenges and with them being solved i was learning a new thing.  
-I got hands on flexbox also on responsive design using media query. 
-I am looking forward to complete all of the challenges. They are fun to do.
+Wooohoooooooooooo!! Did the second challenge . I must tell the it is best to learn web dev with projects rather than watching those tutorials. Keep on doing projects whether small or large. Keep Learning!
 ### Built With
 
 - [HTML](https://www.w3schools.com/html/default.asp)
